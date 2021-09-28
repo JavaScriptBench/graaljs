@@ -15,10 +15,9 @@ Built on the GraalVM by Oracle Labs.
 Just
 
 ```
-tar -xvf 
-
+wget https://github.com/JavaScriptBench/graaljs/releases/download/vm-21.1.0/graalvm-ce-java16-linux-amd64-21.2.0.tar.gz
+tar -xvf graalvm-ce-java16-linux-amd64-21.2.0.tar.gz
 ~/graalvm-ce-java16-21.2.0/languages/js/bin/js test.js 
-
 ```
 
 ## Building GraalVM JavaScript
