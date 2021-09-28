@@ -12,6 +12,15 @@ Built on the GraalVM by Oracle Labs.
 ======================================================================
 
 
+Just
+
+```
+tar -xvf 
+
+~/graalvm-ce-java16-21.2.0/languages/js/bin/js test.js 
+
+```
+
 ## Building GraalVM JavaScript
 
 This document describes how to build and run GraalVM JavaScript.
